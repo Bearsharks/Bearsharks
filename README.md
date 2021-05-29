@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Bearsharks
+- 👀 I’m interested in frontend
+- 🌱 I’m currently learning UX, TDD, Clean Code
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me [iginganza@gmail.com](iginganza@gmail.com)
