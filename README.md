@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Bearsharks
+- 👋 Hi, I’m 조성빈(@Bearsharks)
 - 👀 I’m interested in frontend
-- 🌱 I’m currently learning UX, TDD and clean Code
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning UX, TDD and sustainable code
+- 💞️ Visit [here](https://bearsharks.github.io/portfolio/) for more information
 - 📫 How to reach me [iginganza@gmail.com](mailto:iginganza@gmail.com)
